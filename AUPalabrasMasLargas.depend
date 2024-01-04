@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1689883057 source:d:\git\programacion\exams\aupalabrasmaslargas\examen\examen.c
+	<stdio.h>
+	"examen.h"
+
+1689882858 d:\git\programacion\exams\aupalabrasmaslargas\examen\examen.h
+
+1689883096 source:d:\git\programacion\exams\aupalabrasmaslargas\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+
+1695389219 source:d:\git\programacion\exams\aucortofrasesmaslargassinarchivos\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+	<string.h>
+
+1695389169 d:\git\programacion\exams\aucortofrasesmaslargassinarchivos\examen\examen.h
+
+1695389282 source:d:\git\programacion\exams\aucortofrasesmaslargassinarchivos\examen\examen.c
+	<stdio.h>
+	"examen.h"
+
+1695389282 source:d:\temporal\examen\examen.c
+	<stdio.h>
+	"examen.h"
+
+1695669682 d:\temporal\examen\examen.h
+
+1695669684 source:d:\temporal\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+	<string.h>
+
+1695844082 source:c:\users\laboratorios\desktop\examen\examen.c
+	<stdio.h>
+	"examen.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1695842381 c:\users\laboratorios\desktop\examen\examen.h
+
+1695844186 source:c:\users\laboratorios\desktop\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+	<string.h>
+	<locale.h>
+
+1696028092 source:c:\users\54113\downloads\examen\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+	<string.h>
+	<locale.h>
+
+1696390468 c:\users\54113\downloads\examen\examen\examen.h
+
+1696438240 source:c:\users\54113\downloads\examen\examen\examen.c
+	<stdio.h>
+	"examen.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1696438240 source:c:\users\54113\[nahue] cursos\unlam\topicos de programacion\examen\examen\examen.c
+	<stdio.h>
+	"examen.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1696390468 c:\users\54113\[nahue] cursos\unlam\topicos de programacion\examen\examen\examen.h
+
+1696028092 source:c:\users\54113\[nahue] cursos\unlam\topicos de programacion\examen\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+	<string.h>
+	<locale.h>
+
